@@ -790,7 +790,7 @@ button.slick-arrow:hover {
 .news {
   display: flex;
   justify-content: space-between;
-  margin: 0 -25px 120px;
+  margin: 0 -15px 120px;
 }
 .news__item {
   width: 33.333%;
